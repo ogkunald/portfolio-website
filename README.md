@@ -1,3 +1,3 @@
 # Personal Portfolio Website
 
-<sub>https://www.kunaldongare.cf/</sub>
+https://www.kunaldongare.cf/
